@@ -1,0 +1,623 @@
+*{
+    margin: p;
+}
+.navbar{
+    background-color:#fff;
+    height: 758px;
+    max-width: 1359px;
+    gap: 24px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.navbar1{
+    height: 367px;
+    max-width: 259px;
+    border: 1px;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 0px,0px,16px,0px;
+}
+.menu{
+    height: 189px;
+    max-width: 259px;
+    border-radius: 8px,8px,0px,0px;
+    background-color:#E2E2E2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu__img{
+    height: 130px;
+    max-width: 176px ;
+}
+.name{
+    background-color: #fff;
+    height: 146px;
+    max-width: 259px;
+    gap: 14px;
+    padding: 0px,16px,0px,16px;
+}
+.name > button {
+    background-color: rgb(217, 217, 217);
+    color:#52057b;
+    height: 27px;
+    border-radius: 4px;
+    padding: 6px,8px,6px,8px;
+    gap: 8px;
+}
+.name> h3{
+    height: 44px;
+    width: 227px;
+    color: #212121;
+    font-size:16px ;
+}
+.cost{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 22px;
+    gap: 16px;
+}
+.geolakatsiya{
+    height: 17px;
+    color: #828282;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.g__img >img{
+    height: 16px;
+    width: 16px;
+}
+
+
+.navbar2{
+    height: 367px;
+    max-width: 259px;
+    border: 1px;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 0px,0px,16px,0px;
+}
+.menu2{
+    height: 189px;
+    max-width: 259px;
+    border-radius: 8px,8px,0px,0px;
+    background-color:#E6E8EC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu2__img{
+    height: 130px;
+    max-width: 176px ;
+}
+.name2{
+    background-color: #fff;
+    height: 146px;
+    max-width: 259px;
+    gap: 14px;
+    padding: 0px,16px,0px,16px;
+}
+.name2 > button {
+    background-color: rgb(217, 217, 217);
+    color:#52057b;
+    height: 27px;
+    border-radius: 4px;
+    padding: 6px,8px,6px,8px;
+    gap: 8px;
+}
+.name2> h3{
+    height: 44px;
+    width: 227px;
+    color: #212121;
+    font-size:16px ;
+}
+.cost2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 22px;
+    gap: 16px;
+}
+.geolakatsiya{
+    height: 17px;
+    color: #828282;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.g2__img >img{
+    height: 16px;
+    width: 16px;
+}
+
+.navbar3{
+    height: 367px;
+    max-width: 259px;
+    border: 1px;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 0px,0px,16px,0px;
+}
+.menu3{
+    height: 189px;
+    max-width: 259px;
+    border-radius: 8px,8px,0px,0px;
+    background-color:#E2E2E2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu3__img{
+    height: 130px;
+    max-width: 176px ;
+}
+.name3{
+    background-color: #fff;
+    height: 146px;
+    max-width: 259px;
+    gap: 14px;
+    padding: 0px,16px,0px,16px;
+}
+.name3 > button {
+    background-color: rgb(217, 217, 217);
+    color:#52057b;
+    height: 27px;
+    border-radius: 4px;
+    padding: 6px,8px,6px,8px;
+    gap: 8px;
+}
+.name3> h3{
+    height: 44px;
+    width: 227px;
+    color: #212121;
+    font-size:16px ;
+}
+.cost3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 22px;
+    gap: 16px;
+}
+.geolakatsiya{
+    height: 17px;
+    color: #828282;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.g3__img >img{
+    height: 16px;
+    width: 16px;
+}
+
+
+.navbar4{
+    height: 367px;
+    max-width: 259px;
+    border: 1px;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 0px,0px,16px,0px;
+}
+.menu4{
+    height: 189px;
+    max-width: 259px;
+    border-radius: 8px,8px,0px,0px;
+    background-color:#E6E8EC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu4__img{
+    height: 130px;
+    max-width: 176px ;
+}
+.name4{
+    background-color: #fff;
+    height: 146px;
+    max-width: 259px;
+    gap: 14px;
+    padding: 0px,16px,0px,16px;
+}
+.name4 > button {
+    background-color: rgb(217, 217, 217);
+    color:#52057b;
+    height: 27px;
+    border-radius: 4px;
+    padding: 6px,8px,6px,8px;
+    gap: 8px;
+}
+.name4> h3{
+    height: 44px;
+    width: 227px;
+    color: #212121;
+    font-size:16px ;
+}
+.cost4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 22px;
+    gap: 16px;
+}
+.geolakatsiya{
+    height: 17px;
+    color: #828282;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.g4__img >img{
+    height: 16px;
+    width: 16px;
+}
+
+.navbar5{
+    height: 367px;
+    max-width: 259px;
+    border: 1px;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 0px,0px,16px,0px;
+}
+.menu5{
+    height: 189px;
+    max-width: 259px;
+    border-radius: 8px,8px,0px,0px;
+    background-color:#E6E8EC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu5__img{
+    height: 130px;
+    max-width: 145px ;
+}
+.name5{
+    background-color: #fff;
+    height: 146px;
+    max-width: 259px;
+    gap: 14px;
+    padding: 0px,16px,0px,16px;
+}
+.name5 > button {
+    background-color: rgb(217, 217, 217);
+    color:#52057b;
+    height: 27px;
+    border-radius: 4px;
+    padding: 6px,8px,6px,8px;
+    gap: 8px;
+}
+.name5> h3{
+    height: 44px;
+    width: 227px;
+    color: #212121;
+    font-size:16px ;
+}
+.cost5{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 22px;
+    gap: 16px;
+}
+.geolakatsiya{
+    height: 17px;
+    color: #828282;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.g5__img >img{
+    height: 16px;
+    width: 16px;
+}
+
+.navbar6{
+    height: 367px;
+    max-width: 259px;
+    border: 1px;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 0px,0px,16px,0px;
+}
+.menu6{
+    height: 189px;
+    max-width: 259px;
+    border-radius: 8px,8px,0px,0px;
+    background-color:#E6E8EC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu6__img{
+    height: 130px;
+    max-width: 145px ;
+}
+.name6{
+    background-color: #fff;
+    height: 146px;
+    max-width: 259px;
+    gap: 14px;
+    padding: 0px,16px,0px,16px;
+}
+.name6 > button {
+    background-color: rgb(217, 217, 217);
+    color:#52057b;
+    height: 27px;
+    border-radius: 4px;
+    padding: 6px,8px,6px,8px;
+    gap: 8px;
+}
+.name6> h3{
+    height: 44px;
+    width: 227px;
+    color: #212121;
+    font-size:16px ;
+}
+.cost6{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 22px;
+    gap: 16px;
+}
+.geolakatsiya{
+    height: 17px;
+    color: #828282;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.g6__img >img{
+    height: 16px;
+    width: 16px;
+}
+
+.navbar7{
+    height: 367px;
+    max-width: 259px;
+    border: 1px;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 0px,0px,16px,0px;
+}
+.menu7{
+    height: 189px;
+    max-width: 259px;
+    border-radius: 8px,8px,0px,0px;
+    background-color:#E6E8EC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu7__img{
+    height: 130px;
+    max-width: 145px ;
+}
+.name7{
+    background-color: #fff;
+    height: 146px;
+    max-width: 259px;
+    gap: 14px;
+    padding: 0px,16px,0px,16px;
+}
+.name7 > button {
+    background-color: rgb(217, 217, 217);
+    color:#52057b;
+    height: 27px;
+    border-radius: 4px;
+    padding: 6px,8px,6px,8px;
+    gap: 8px;
+}
+.name7> h3{
+    height: 44px;
+    width: 227px;
+    color: #212121;
+    font-size:16px ;
+}
+.cost7{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 22px;
+    gap: 16px;
+}
+.geolakatsiya{
+    height: 17px;
+    color: #828282;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.g7__img >img{
+    height: 16px;
+    width: 16px;
+}
+
+.navbar8{
+    height: 367px;
+    max-width: 259px;
+    border: 1px;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 0px,0px,16px,0px;
+}
+.menu8{
+    height: 189px;
+    max-width: 259px;
+    border-radius: 8px,8px,0px,0px;
+    background-color:#E6E8EC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu8__img{
+    height: 130px;
+    max-width: 145px ;
+}
+.name7{
+    background-color: #fff;
+    height: 146px;
+    max-width: 259px;
+    gap: 14px;
+    padding: 0px,16px,0px,16px;
+}
+.name8 > button {
+    background-color: rgb(217, 217, 217);
+    color:#52057b;
+    height: 27px;
+    border-radius: 4px;
+    padding: 6px,8px,6px,8px;
+    gap: 8px;
+}
+.name8> h3{
+    height: 44px;
+    width: 227px;
+    color: #212121;
+    font-size:16px ;
+}
+.cost8{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 22px;
+    gap: 16px;
+}
+.geolakatsiya{
+    height: 17px;
+    color: #828282;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.g8__img >img{
+    height: 16px;
+    width: 16px;
+}
+
+.navbar9{
+    height: 367px;
+    max-width: 259px;
+    border: 1px;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 0px,0px,16px,0px;
+}
+.menu9{
+    height: 189px;
+    max-width: 259px;
+    border-radius: 8px,8px,0px,0px;
+    background-color:#E6E8EC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu9__img{
+    height: 130px;
+    max-width: 145px ;
+}
+.name9{
+    background-color: #fff;
+    height: 146px;
+    max-width: 259px;
+    gap: 14px;
+    padding: 0px,16px,0px,16px;
+}
+.name9 > button {
+    background-color: rgb(217, 217, 217);
+    color:#52057b;
+    height: 27px;
+    border-radius: 4px;
+    padding: 6px,8px,6px,8px;
+    gap: 8px;
+}
+.name9> h3{
+    height: 44px;
+    width: 227px;
+    color: #212121;
+    font-size:16px ;
+}
+.cost9{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 22px;
+    gap: 16px;
+}
+.geolakatsiya{
+    height: 17px;
+    color: #828282;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.g9__img >img{
+    height: 16px;
+    width: 16px;
+}
+
+.navbar10{
+    height: 367px;
+    max-width: 259px;
+    border: 1px;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 0px,0px,16px,0px;
+}
+.menu10{
+    height: 189px;
+    max-width: 259px;
+    border-radius: 8px,8px,0px,0px;
+    background-color:#E6E8EC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu10__img{
+    height: 130px;
+    max-width: 145px ;
+}
+.name10{
+    background-color: #fff;
+    height: 146px;
+    max-width: 259px;
+    gap: 14px;
+    padding: 0px,16px,0px,16px;
+}
+.name10 > button {
+    background-color: rgb(217, 217, 217);
+    color:#52057b;
+    height: 27px;
+    border-radius: 4px;
+    padding: 6px,8px,6px,8px;
+    gap: 8px;
+}
+.name10> h3{
+    height: 44px;
+    width: 227px;
+    color: #212121;
+    font-size:16px ;
+}
+.cost10{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 22px;
+    gap: 16px;
+}
+.geolakatsiya{
+    height: 17px;
+    color: #828282;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.g10__img >img{
+    height: 16px;
+    width: 16px;
+}
